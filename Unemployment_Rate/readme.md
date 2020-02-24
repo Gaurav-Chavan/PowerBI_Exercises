@@ -1,5 +1,5 @@
 
-# Objectiive
+# Objective
 
 - To create Time-Series Visulaization of Overall Unemployment Rate (Expansion vs Drilling)
 - To create Trend Chart basis categorical granularity (Gender)
